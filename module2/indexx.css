@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+
+#id2{
+    color: blue;
+    border-radius: 20px  70px 44px 15px ;
+    margin:20px 30px;
+    padding: 10px 15px 5px 30px;
+    text-align: center;
+    border:2px solid black ;}
+#d3{
+    border-block: 4px solid red;
+}
+

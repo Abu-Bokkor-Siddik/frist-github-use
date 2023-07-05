@@ -1,0 +1,15 @@
+#id0{
+    color:rgb(92, 19, 102);
+    border-radius: 10px;
+    text-align:center;
+    height: 50px;
+    width: 450px;
+    box-shadow: 22px 20px 10px 5px red;
+    border: 5px solid red;
+}
+#id1{
+    color:chartreuse ;
+    border: 40px solid black;
+}
+#id2{
+    

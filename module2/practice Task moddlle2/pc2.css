@@ -1,0 +1,28 @@
+*{
+    
+    box-sizing: border-box;
+}
+body{
+background-image: url(.//peter-thomas-iqyiopqlFJ8-unsplash.jpg),url(./radek-skrzypczak-b0EzyHcXmsI-unsplash.jpg),url(./marek-piwnicki-r9Vd1u6Q_8c-unsplash.jpg);
+
+background-repeat:no-repeat;background-size:200px 100%,300px 100%,200px 100%;
+background-position:0px 0px,200px 0px,500px 0px;
+}
+.cl1{
+    color: aquamarine;
+    background-color: black;
+    clear:both;
+}
+.cl2{
+    color: rgb(16, 7, 63);
+    background-color: rgb(75, 15, 15);
+}
+.cl3{
+    color: rgb(82, 14, 76);
+    background-color: rgb(23, 83, 133);
+    
+}
+.cl4{
+    color: rgb(64, 163, 130);
+    background-color: rgb(99, 80, 80);
+}

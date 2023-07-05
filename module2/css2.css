@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#id1{
+    color:blueviolet;
+    text-align: center;
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+}
+
+#id2{
+    color: brown;
+    text-align: end;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+#id3{
+    color: brown;
+    text-align: center;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+#id4{
+    color: brown;
+    text-align: justify;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.cl0{
+    color: aqua;
+}
+.cl1{
+    color:blue;
+}
+.cl2{
+    color:brown;
+}
+.cl3{
+    color:chartreuse;
+}
+
